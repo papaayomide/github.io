@@ -1,0 +1,7 @@
+.about {
+	text-align: center;
+}
+.post-author img,
+.about-author img,{
+	border-radius: 50%;
+}
